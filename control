@@ -1,0 +1,9 @@
+Package: net.tetherme.absaok
+Name: ABSA Banking Permit
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Samuel Bingner
+Author: Samuel Bingner
+Section: Tweaks
